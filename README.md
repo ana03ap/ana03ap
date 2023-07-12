@@ -1,6 +1,9 @@
-### Hello, My name is Ana Maria👋
+### Hello, My name is Ana Maria👋😸
 
-I'm a Colombian Computer Sciencie student...
+I'm a Colombian Computer Sciencie student!
+
+- I'm Currenty lerning react and node js
+- Connect me here: [link](https://www.instagram.com/ana03_ap/)
 
 
 <!--
