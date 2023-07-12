@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, My name is Ana Maria👋
+
+I'm a Colombian Computer Sciencie student...
+
 
 <!--
 **ana03ap/ana03ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
