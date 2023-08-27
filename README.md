@@ -2,8 +2,8 @@
 
 I'm a Colombian Computer Engineering student!
 
-- I'm Currenty lerning react and node js
-- I’m currently working on a weather App!
+- I'm Currenty lerning React and Node JS
+- Take a look at my projects here!; I'm currently working on a weather App!
 - Connect me here: [link](https://www.instagram.com/ana03_ap/)
 
 
