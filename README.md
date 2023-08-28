@@ -1,4 +1,4 @@
-### Hello, My name is Ana Maria👋😸
+### Hi, My name is Ana Maria👋😸
 
 I'm a Colombian Computer Engineering student!
 
