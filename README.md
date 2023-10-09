@@ -1,9 +1,9 @@
-### Hi, My name is Ana Maria👋😸
+### Hi, My name is Ana👋😸
 
 I'm a Colombian Computer Engineering student!
 
 - I'm Currenty lerning React and Node JS
-- Take a look at my projects here!; I'm currently working on a weather App!
+- Take a look at my projects here!
 - Connect me here: [link](https://www.instagram.com/ana03_ap/)
 
 
